@@ -1,3 +1,9 @@
+# 
+# Copyright (c) 2022 
+#   Hieu-Thi Luong, National Institute of Informatics
+#   MIT Licence (https://github.com/nii-yamagishilab/waveform-silhouette-module/blob/main/LICENSE)
+#
+
 import torch
 import torch.nn.functional as F
 
